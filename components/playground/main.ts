@@ -1,5 +1,5 @@
 // use before bundle
-// import '~/index';
+import '~/index';
 
 // use bundle lib
-import '@/dist/elements.mjs';
+// import '@/dist/elements.mjs';
